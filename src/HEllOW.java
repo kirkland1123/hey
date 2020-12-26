@@ -2,6 +2,8 @@
 public class HEllOW {
 	public static void main(String[] args) {
 		System.out.println("Hello world");
-		System.out.println("º¯°æµÇ¶ó Á¦¹ß");
+		System.out.println("ì•ˆë…•í•˜ì„¸ìš”");
+		System.out.println("ìš°ë¦° ë°°ì¹˜ ê¹ë‹ˆë‹¤");
+		System.out.println("ë ë•Œ ëë‹¤");
 	}
 }
